@@ -1,0 +1,55 @@
+_repo: Der-persische-Orden-und-andere-Grotesken_53731
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Masjutyn, Wasyl
+    aliases:
+    - Masiutyn, Vasyl Mykolaiovych
+    - Масютин, Василь
+    - Masjutin, Wassili
+    - Massjutin, W. N.
+    birthdate: 1884
+    deathdate: 1955
+    gutenberg_agent_id: '47507'
+    url: http://www.gutenberg.org/2009/agents/47507
+  translator:
+    agent_name: Eliasberg, Alexander
+    alias: Эліасберг, Александр
+    birthdate: 1878
+    deathdate: 1924
+    gutenberg_agent_id: '38223'
+    url: http://www.gutenberg.org/2009/agents/38223
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Tshehov, Anton
+    - Tchekhoff, Anton
+    - Tschechow, Anton
+    - Tchekhov, Anton
+    - Chekov, Anton Pavlovich
+    - Чехов, Антон Павлович
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2016-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53731'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- Translations into German'
+- !lcsh 'Short stories, Russian -- Translations into German'
+- GITenberg
+tableOfContents: Der Persische Orden -- Die Simulanten -- Aus dem Tagebuch des zweiten
+  Buchhalters -- Ein böser Junge -- Es war sie! -- Ein jähzorniger Mensch -- Eine
+  problematische Natur -- Intrigen.
+title: Der persische Orden und andere Grotesken
+url: http://www.gutenberg.org/ebooks/53731
